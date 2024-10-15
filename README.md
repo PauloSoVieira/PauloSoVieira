@@ -22,11 +22,7 @@ I'm a passionate software developer with a unique journey that combines entrepre
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🌟 Featured Projects
 
-- [Project 1](link_to_project): Brief description of the project.
-- [Project 2](link_to_project): Brief description of the project.
-- [Project 3](link_to_project): Brief description of the project.
 
 ### 📚 Education
 
