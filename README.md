@@ -2,6 +2,9 @@
 ## 💼 Software Developer | 🎓 Computer Engineering Student
 I'm a passionate software developer with a unique journey that combines entrepreneurship and software development. Currently, I'm focused on expanding my skills in modern web technologies and backend development.
 
+### 💼 Current Role
+Software Developer Intern at Mindera 
+
 ### 🚀 About Me
 - 🔭 I'm currently working on full-stack projects using NestJS, React, and Supabase
 - 🌱 I'm pursuing a degree in Computer Engineering at ISTEC - Porto Superior Institute of Advanced Technologies
